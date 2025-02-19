@@ -11,8 +11,6 @@ for(let i = 1; i <= 20; i++){
     }
 }
 
-console.log('Il totale dei numeri dispari è ' + dispari);
-console.log('Il numero per i quali bisogna dividerli è ' + num);
 let media = dispari / num; 
 console.log('La media dei numeri dispari è ' + media);
 
